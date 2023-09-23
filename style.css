@@ -73,3 +73,20 @@ body
     height: 100%;
     object-fit: cover;
 }
+
+.profile_text h2
+{
+    color : #fff;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
+.profile_text h2 span
+{
+    font-size: 0.8em;
+    font-weight: 300;
+}
