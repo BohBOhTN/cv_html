@@ -89,4 +89,64 @@ body
 {
     font-size: 0.8em;
     font-weight: 300;
+
+}
+
+.contact_info
+{
+    padding-top: 40px;
+}
+
+.contact_info ul span i 
+{
+    color: #03a9f4;
+}
+
+.title{
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.contact_info ul li 
+{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+    color: #03a9f4
+}
+
+.contact_info ul li span
+{
+    color: #fff;
+    font-weight: 300; 
+}
+
+.education_info li
+{
+    margin-bottom: 15px;
+    list-style: none;
+}
+
+.education_info h5
+{
+    color: #03a9f4;
+    font-weight: 500;
+
+}
+
+.education_info h4:nth-child(2)
+{
+    color: #fff;
+    font-weight: 500;
+
+}
+.education_info h4
+{
+    color: #fff;
+    font-weight: 300;
+
 }
